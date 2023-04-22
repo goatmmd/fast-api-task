@@ -12,14 +12,14 @@ This project is my task for Daneshgostar Corporation
     - /register                                                     - Create
     - /Protected 
 
-##### Docs:
-   ## - User (without JWT): 
+# Docs:
+   ### - User (without JWT): 
        - register users for logging in instagram
         - get list of users in db
-   ## - Instagram 
+   ### - Instagram 
         - login into ig by users that you have registred 
         - get list of follower by users that you have login with it once at least 
-   ## - User (Jwt)
+   ### - User (Jwt)
         - register user and retrive a temporary  access token
         - an  endpoit for testing your access token 
         
