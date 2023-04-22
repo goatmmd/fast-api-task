@@ -10,5 +10,5 @@ This project is my task for Daneshgostar Corporation
     - /users/ig/followers/{username}                                 - List
 ### User(JWT):
     - /register                                                     - Create
-    - /Protected /comment/retrieve/<int:pk>/                        - Retrieve
+    - /Protected 
 
